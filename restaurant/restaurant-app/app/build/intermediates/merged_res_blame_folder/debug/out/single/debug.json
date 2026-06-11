@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "C:\\Users\\Exu siai\\.gradle\\daemon\\9.0-milestone-1\\com.restaurant.app-merged_res-41:\\layout_activity_order_history.xml.flat",
+        "source": "C:\\Users\\Exu siai\\.gradle\\daemon\\9.0-milestone-1\\com.restaurant.app-main-43:\\layout\\activity_order_history.xml"
+    },
+    {
+        "merged": "C:\\Users\\Exu siai\\.gradle\\daemon\\9.0-milestone-1\\com.restaurant.app-merged_res-41:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Exu siai\\.gradle\\daemon\\9.0-milestone-1\\com.restaurant.app-main-43:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Exu siai\\.gradle\\daemon\\9.0-milestone-1\\com.restaurant.app-merged_res-41:\\layout_item_category.xml.flat",
+        "source": "C:\\Users\\Exu siai\\.gradle\\daemon\\9.0-milestone-1\\com.restaurant.app-main-43:\\layout\\item_category.xml"
+    },
+    {
+        "merged": "com.restaurant.app-merged_res-41:/layout_activity_dish_detail.xml.flat",
+        "source": "com.restaurant.app-main-43:/layout/activity_dish_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\Exu siai\\.gradle\\daemon\\9.0-milestone-1\\com.restaurant.app-merged_res-41:\\layout_activity_address_edit.xml.flat",
+        "source": "C:\\Users\\Exu siai\\.gradle\\daemon\\9.0-milestone-1\\com.restaurant.app-main-43:\\layout\\activity_address_edit.xml"
+    },
+    {
+        "merged": "C:\\Users\\Exu siai\\.gradle\\daemon\\9.0-milestone-1\\com.restaurant.app-merged_res-41:\\layout_item_order_history.xml.flat",
+        "source": "C:\\Users\\Exu siai\\.gradle\\daemon\\9.0-milestone-1\\com.restaurant.app-main-43:\\layout\\item_order_history.xml"
+    },
+    {
+        "merged": "C:\\Users\\Exu siai\\.gradle\\daemon\\9.0-milestone-1\\com.restaurant.app-merged_res-41:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\Exu siai\\.gradle\\daemon\\9.0-milestone-1\\com.restaurant.app-main-43:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Exu siai\\.gradle\\daemon\\9.0-milestone-1\\com.restaurant.app-merged_res-41:\\layout_activity_address_list.xml.flat",
+        "source": "C:\\Users\\Exu siai\\.gradle\\daemon\\9.0-milestone-1\\com.restaurant.app-main-43:\\layout\\activity_address_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Exu siai\\.gradle\\daemon\\9.0-milestone-1\\com.restaurant.app-merged_res-41:\\layout_item_review.xml.flat",
+        "source": "C:\\Users\\Exu siai\\.gradle\\daemon\\9.0-milestone-1\\com.restaurant.app-main-43:\\layout\\item_review.xml"
+    },
+    {
+        "merged": "C:\\Users\\Exu siai\\.gradle\\daemon\\9.0-milestone-1\\com.restaurant.app-merged_res-41:\\layout_activity_dish_detail.xml.flat",
+        "source": "C:\\Users\\Exu siai\\.gradle\\daemon\\9.0-milestone-1\\com.restaurant.app-main-43:\\layout\\activity_dish_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\Exu siai\\.gradle\\daemon\\9.0-milestone-1\\com.restaurant.app-merged_res-41:\\layout_item_cart.xml.flat",
+        "source": "C:\\Users\\Exu siai\\.gradle\\daemon\\9.0-milestone-1\\com.restaurant.app-main-43:\\layout\\item_cart.xml"
+    },
+    {
+        "merged": "C:\\Users\\Exu siai\\.gradle\\daemon\\9.0-milestone-1\\com.restaurant.app-merged_res-41:\\layout_item_address.xml.flat",
+        "source": "C:\\Users\\Exu siai\\.gradle\\daemon\\9.0-milestone-1\\com.restaurant.app-main-43:\\layout\\item_address.xml"
+    },
+    {
+        "merged": "C:\\Users\\Exu siai\\.gradle\\daemon\\9.0-milestone-1\\com.restaurant.app-merged_res-41:\\drawable_ic_placeholder.xml.flat",
+        "source": "C:\\Users\\Exu siai\\.gradle\\daemon\\9.0-milestone-1\\com.restaurant.app-main-43:\\drawable\\ic_placeholder.xml"
+    },
+    {
+        "merged": "C:\\Users\\Exu siai\\.gradle\\daemon\\9.0-milestone-1\\com.restaurant.app-merged_res-41:\\layout_item_dish.xml.flat",
+        "source": "C:\\Users\\Exu siai\\.gradle\\daemon\\9.0-milestone-1\\com.restaurant.app-main-43:\\layout\\item_dish.xml"
+    },
+    {
+        "merged": "C:\\Users\\Exu siai\\.gradle\\daemon\\9.0-milestone-1\\com.restaurant.app-merged_res-41:\\menu_activity_main_drawer.xml.flat",
+        "source": "C:\\Users\\Exu siai\\.gradle\\daemon\\9.0-milestone-1\\com.restaurant.app-main-43:\\menu\\activity_main_drawer.xml"
+    },
+    {
+        "merged": "C:\\Users\\Exu siai\\.gradle\\daemon\\9.0-milestone-1\\com.restaurant.app-merged_res-41:\\layout_fragment_cart_bottom_sheet.xml.flat",
+        "source": "C:\\Users\\Exu siai\\.gradle\\daemon\\9.0-milestone-1\\com.restaurant.app-main-43:\\layout\\fragment_cart_bottom_sheet.xml"
+    }
+]

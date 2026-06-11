@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FilmApp</string>
+    <string name="tab_hot">正在热映</string>
+    <string name="tab_coming">即将上映</string>
+</resources>

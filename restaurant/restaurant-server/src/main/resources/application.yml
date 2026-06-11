@@ -1,0 +1,28 @@
+server:
+  port: 8080
+
+spring:
+  application:
+    name: restaurant-server
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/db_schema?serverTimezone=Asia/Shanghai&useUnicode=true&characterEncoding=utf-8&zeroDateTimeBehavior=convertToNull&useSSL=false&allowPublicKeyRetrieval=true
+    username: root
+    password: Aa2447439574
+  # Spring MVC static resources
+  web:
+    resources:
+      static-locations: classpath:/static/,classpath:/META-INF/resources/
+
+mybatis-plus:
+  mapper-locations: classpath:mapper/*.xml
+  type-aliases-package: com.restaurant.entity
+  configuration:
+    map-underscore-to-camel-case: true
+    log-impl: org.apache.ibatis.logging.stdout.StdOutImpl # Print SQL in console
+  global-config:
+    db-config:
+      id-type: auto # Or ASSIGN_ID for snowflake
+      logic-delete-field: isDeleted # If logic delete is needed
+      logic-delete-value: 1
+      logic-not-delete-value: 0
